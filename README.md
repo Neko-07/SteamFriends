@@ -2,7 +2,6 @@
 ## 别设置私密，获取不到你的好友列表会报错的。
 ![](https://img.shields.io/badge/Status-Power%20Off-darkred?style=flat-square) ![](https://img.shields.io/badge/Entity-Digital%20Butterfly-black?style=flat-square)
 
-> *Gone forever when the screen goes dark.*
 > 因为steam没有删好友提示，导致总是有好友莫名其妙消失，别人可能无所谓，
 > 今天我是忍无可忍了。 必须狠狠查询一下好友的底细。
 
